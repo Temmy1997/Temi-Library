@@ -33,7 +33,7 @@ Note: Different between GIT and GITHUB
 
 - always run git status to check current status of your git repo
 
-- git checkout -b <new-branch-name> <current-branch-you-are-checking-off-from>
+- git checkout -b <new-branch-name> <current-branch-you-are-checking-off-from>: create new branch off another updated branch 
 
 
 
