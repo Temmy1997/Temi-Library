@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/temit/OneDrive/Documents/TemiLibrary/Devops/vagrant_box/crispy-chicken","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
