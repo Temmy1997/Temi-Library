@@ -2,4 +2,4 @@
 
 git add .
 git commit -m "added changes"
-git push 
+git push -u origin fidelis
