@@ -19,4 +19,21 @@ Note: Different between GIT and GITHUB
 * add => Track all the changes in GIT.
 * commit => SAVE all the changes I made in Git.
 * push => Once I have made the changes locally on my computer, this command uploads the file to Github.
-* pull => Download changes to my local computer from Github. 
+* pull => Download changes to my local computer from Github.
+
+* git init : initialize local repo 
+* git remote add : add a new repository 
+* git clone: to clone an existing repo 
+
+# Flow of pushing local files and folder changes to remote repo 
+
+- git add <all-changes>: This is to track all changes 
+- git commit -m "<description>"
+- git push -u origin <current-local-branch>
+
+- always run git status to check current status of your git repo
+
+- git checkout -b <new-branch-name> <current-branch-you-are-checking-off-from>
+
+
+
